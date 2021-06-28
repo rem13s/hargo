@@ -1,17 +1,17 @@
 ---
-title: "Taba Cream"
-date: 2019-10-17T11:22:16+06:00
+title: "Propanganda Postcard Germany 1938"
+date: 2021-06-28T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Propaganda Postcard"
 
 # product Price
 price: "20.00"
 priceBefore: "25.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "RARE Original Propaganda Postcard 1938 Germany Third Reich"
 
 #product ID
 productID: "2"
