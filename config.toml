@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://myantik.com"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "MyAntik Ecommerce Site"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -84,15 +84,16 @@ disqusShortname = ""
 logo = "images/logo.svg"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "MyAntik Store"
+author = "MyAntik.com"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCr9v5_iPGK6PQQPcFe_Aehfrn7zY3DFqY&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "21.1622023"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCr9v5_iPGK6PQQPcFe_Aehfrn7zY3DFqY"
+mapLatitude = "49.6118086"
+mapLongitude = "6.1319882"
 mapMarker = "images/marker.png"
+mapMarkerName = "Luxembourg"
 # Google Analitycs
-googleAnalitycsID = "" # Your ID
+googleAnalitycsID = "G-X3ZBNKW1BL" # Your ID
 # Contact Information
 mobile = "+352 661 170 029"
 email = "contact@myantik.com"
@@ -107,7 +108,7 @@ currencySymbol = "€"
   # Preloader
   [params.preloader]
   enable = true
-  preloader = ".svg" # use .png , .svg or .gif format
+  preloader = "#.svg" # use .png , .svg or .gif format
 
   # Product Rating
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.

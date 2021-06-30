@@ -4,7 +4,7 @@ function initialize() {
   var map;
   var latitude = $('#map_canvas').attr('data-latitude');
   var longitude = $('#map_canvas').attr('data-longitude');
-  var mapMarker = $('#map_canvas').attr('data-marker');
+  //var mapMarker = $('#map_canvas').attr('data-marker');
   var mapMarkerName = $('#map_canvas').attr('data-marker-name');
   var nottingham = new google.maps.LatLng(latitude, longitude);
   var style = [{
@@ -65,12 +65,12 @@ function initialize() {
   });
   map.mapTypes.set('grey', mapType);
   map.setMapTypeId('grey');
-  var marker_image = mapMarker;
-  var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(45, 45));
+  //var marker_image = mapMarker;
+  //var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(45, 45));
   marker = new google.maps.Marker({
     position: nottingham,
     map: map,
-    icon: pinIcon,
+    icon: '',
     title: mapMarkerName
   });
 }
