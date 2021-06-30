@@ -85,6 +85,16 @@ ga('send', 'pageview');
 </script>
 {{ end }}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X3ZBNKW1BL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X3ZBNKW1BL');
+</script>
+
 {{ if site.Params.rating.enable }}
 {{ "<!-- Product Ratings -->" | safeHTML }}
 <script>
