@@ -22,13 +22,11 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/postcard1/postcard1front.jpg"
+  - image: "images/products/postcard1/postcard1front1.jpg"
   - image: "images/products/postcard1/postcard1back.jpg"
   - image: "images/products/postcard1/postcard1catalogue1.jpg"
   - image: "images/products/postcard1/postcard1catalogue2.jpg"
 
-Important:
-  These postcards from the Third Reich era can be used for the following purposes only: civic education, the prevention of unconstitutional and anti-constitutional activities, the assistance of academic and art historical research, the reporting and clarification of events from the Third Reich era, and the research of uniforms and military history. The purchaser is obligated to only use cards for the historic and academic purposes listed above. They are in no way to be used in other purposes !
 ---
 
 Colorful postcard featuring typical anti Bolshevik slogan " Bolschewismus Ohne Maske" (Bolshevism Unmasked) with an illustration of a Communist soldier attempting to rule the world with a hammer and sickle against the backdrop of a yellow star of David, implying the opinion that Jews were behind the Communist phenomenon. Communism is depicted as the Death wearing Soviet uniform and controlling the world. Communist symbol of the sickle and the hammer and star of David are painted overlapped.  
