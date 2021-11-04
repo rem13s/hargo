@@ -27,7 +27,7 @@ images:
   - image: "images/products/postcard4/pc4cat1.jpg"
 ---
 
-Issued on 15th July. Special postcard "Iron Cross" with a pre-printed stamp depicting Hitler on the lectern. The front shows an image of the Iron Cross with a golden oak leaf. Colorful postcard designed by the artist Gottfried Klein published by Heinrich Hoffmann (Hitler's photographer). 
+Issued on 15th July. Special postcard "Iron Cross" with a pre-printed stamp depicting Hitler on the lectern (Michel 701). The front shows an image of the Iron Cross with a golden oak leaf. Colorful postcard designed by the artist Gottfried Klein published by Heinrich Hoffmann (Hitler's photographer). 
 
 On the reverse there are 3 Michel stamps : number 701 (Intended Nurenberg Party Daily), 748 and 749 - Re-annexation of the territories of Eupen, Malmedy and Moresnet.
 

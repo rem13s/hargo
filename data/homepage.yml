@@ -39,29 +39,28 @@ cta:
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "Our Services"
+  subtitle : "Buying, Selling, Expertise of Art & Antiques, Professional Packing and Worldwide Shipping"
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "Expertise / Estimation"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Providing expertise in Numismatic, Gold, Silverware, Jewelry, Art Objects, Special Collections, Engravings, Medals and Decorations, Antique furniture."
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "Buying/Selling"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "We are buying and selling coins, postcards, gold, silverware, jewelry, art objects, medals and decorations, antique furniture."
       
     # material item loop
-    - title : "Turmeric"
+    - title : "Professional Packing"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "We use the best materials to avoid possible shipping breakage. All of your items are wrapped in cardboard and/or in bubble wrap by our experienced crew."
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "Worldwide Shipping"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "The best shipping rates - we specialize in the packing and shipping of antiques and fine art to worldwide destinations by both sea and air."
 
 ########################### Advantage #########################
 advantage:
