@@ -15,13 +15,19 @@ banner:
     enable : false
     videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
+######################## Products #############################
+products:
+  enable : true
+  title : "Products List"
+  # product item comes from "content/products"
+
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "About Us"
+  content : "Welcome to MyAntik.com, a great and easy website to buy antiques, as well as sell antiques.
+          No matter whether you're looking for antiques to buy or sell, we are a marketplace with a wide variety of antiques for sale online. 
+          All the antiques for sale on LoveAntiques.com are from certified dealers, and all listings are approved by our experienced, and knowledgeable team."
   image : "images/about.png"
 
 
@@ -65,15 +71,15 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "Advantages of using MyAntik.com"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
+    - listItem : "Cheaper prices than our Ebay store"
+    - listItem : "See images & photos without filters"
+    - listItem : "Direct connection with the supplier"
+    - listItem : ""
     - listItem : "Increasing Glow Of Face"
     - listItem : "More Beautiful Face Skin"
 
@@ -87,12 +93,6 @@ video:
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
-
-######################## Products #############################
-products:
-  enable : true
-  title : "Products List"
-  # product item comes from "content/products"
 
 
 ########################## Testimonial ########################
