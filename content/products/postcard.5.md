@@ -24,7 +24,7 @@ type: "products"
 
 images:
   - image: "images/products/postcard5/pc5f.jpg"
-  - image: "images/products/postcard5/pc5s.jpg"
+  - image: "images/products/postcard5/pc5b.jpg"
   - image: "images/products/postcard5/pc5cat1.jpg"
 ---
 
