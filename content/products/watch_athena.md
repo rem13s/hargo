@@ -22,11 +22,11 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/coin_1000_sch/w1.jpg"
-  - image: "images/products/coin_1000_sch/w2.jpg"
-  - image: "images/products/coin_1000_sch/w3.jpg"
-  - image: "images/products/coin_1000_sch/w4.jpg"
-  - image: "images/products/coin_1000_sch/w5.jpg"
+  - image: "images/products/watch_athena/w1.jpg"
+  - image: "images/products/watch_athena/w2.jpg"
+  - image: "images/products/watch_athena/w3.jpg"
+  - image: "images/products/watch_athena/w4.jpg"
+  - image: "images/products/watch_athena/w5.jpg"
 ---
 
 In this model, SWIZA, better than anyone else, has been able to interpret the concept of "suspended movement": the watch appears to be floating in a vacuum.
