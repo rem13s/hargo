@@ -11,7 +11,7 @@ price: "499.00"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "RARE ORIGINAL WWII Memorial leaflet Germany - Wehrmacht Day, Rommel, 1940.
+shortDescription: "RARE ORIGINAL WWII folder cover from Germany commemorating the German Afrika Korps, DAK, for wehrmacht day with stamps and cancels from Libya, Germany, Italy, Tunisia and France and assorted cancellations from the war theater of North Africa.
 
 2.200 copies produced but only a few are around."
 
@@ -24,10 +24,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/leaflet/leaflet_f.png"
-  - image: "images/products/leaflet/leaflet_b.png"
-  - image: "images/products/leaflet/leaflet_cert_1.jpg"
-  - image: "images/products/leaflet/leaflet_cert_2.jpg"
+  - image: "images/products/leaflet/booklet_1.png"
+  - image: "images/products/leaflet/booklet_2.png"
+  - image: "images/products/leaflet/booklet_3.jpg"
+  - image: "images/products/leaflet/booklet_4.jpg"
 ---
 
 Opinions can of course be divided about this historical memorial sheet - but one thing is certain: it was published on behalf of the Winter Relief Organization at the time. This is a real original, with which the field postmaster of the Rommel Army recorded all historical data on this unique memorial sheet during the advance and retreat. It is also important that this really is a real contemporary document from this period, with real original stamps, on which only the explanatory text was subsequently imprinted.
