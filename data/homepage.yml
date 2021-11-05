@@ -1,9 +1,9 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Discover hidden gems !"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Welcome to MyAntik.com!"
+  content : "Discover hidden gems! Created in 2020, MyAntik.com allows antiques passionates from all around the world to to access a marketplace with a wide variety of antiques. The antiques comes from private individuals of the Grand-Duchy, the larger region or even farther away, but also from professional dealers.          
+          All the antiques for sale on MyAntik.com are from certified dealers, and all listings are approved by our experienced and knowledgeable team."
   image : "images/chestbox.png"
   # button
   button:
@@ -23,12 +23,13 @@ products:
 
 ########################## About ##############################
 about:
-  enable : true
+  enable : false
   title : "About Us"
-  content : "Welcome to MyAntik.com, a great and easy website to buy antiques, as well as sell antiques.
-          No matter whether you're looking for antiques to buy or sell, we offer a marketplace with a wide variety of antiques. 
+  content : "Created in 2020, MyAntik.com allows antiques passionates from all around the world to to access a marketplace with a wide variety of antiques.
+          The antiques comes from private individuals of the Grand-Duchy, the larger region or even farther away, but also from professional dealers.          
           All the antiques for sale on MyAntik.com are from certified dealers, and all listings are approved by our experienced and knowledgeable team."
   image : "images/logo.svg"
+
 
 
 ###################### Call to action ########################
