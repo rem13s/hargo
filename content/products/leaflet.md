@@ -24,8 +24,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/leaflet/booklet_1.png"
-  - image: "images/products/leaflet/booklet_2.png"
+  - image: "images/products/leaflet/booklet_1.jpg"
+  - image: "images/products/leaflet/booklet_2.jpg"
   - image: "images/products/leaflet/booklet_3.jpg"
   - image: "images/products/leaflet/booklet_4.jpg"
 ---

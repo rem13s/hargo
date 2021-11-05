@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/coin_1.png"
-  - image: "images/products/coin_2.png"
-  - image: "images/products/coin_3.png"
-  - image: "images/products/coin_4.png"
+  - image: "images/products/coin_1000_sch/coin_1.jpg"
+  - image: "images/products/coin_1000_sch/coin_2.jpg"
+  - image: "images/products/coin_1000_sch/coin_3.jpg"
+  - image: "images/products/coin_1000_sch/coin_4.jpg"
 ---
 
 Diameter : 40 mm.
