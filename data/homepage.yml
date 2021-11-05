@@ -71,7 +71,7 @@ material:
 
 ########################### Advantage #########################
 advantage:
-  enable : true
+  enable : false
   title : "Advantages of using MyAntik.com"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
   image : "images/advantage.png"
