@@ -26,9 +26,9 @@ about:
   enable : true
   title : "About Us"
   content : "Welcome to MyAntik.com, a great and easy website to buy antiques, as well as sell antiques.
-          No matter whether you're looking for antiques to buy or sell, we are a marketplace with a wide variety of antiques for sale online. 
-          All the antiques for sale on LoveAntiques.com are from certified dealers, and all listings are approved by our experienced, and knowledgeable team."
-  image : "images/about.png"
+          No matter whether you're looking for antiques to buy or sell, we offer a marketplace with a wide variety of antiques. 
+          All the antiques for sale on MyAntik.com are from certified dealers, and all listings are approved by our experienced and knowledgeable team."
+  image : "images/logo.svg"
 
 
 ###################### Call to action ########################
