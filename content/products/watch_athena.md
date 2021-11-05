@@ -7,8 +7,8 @@ draft: false
 description : "SWIZA ATHENA Clock 19 JEWELS"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "2299"
+# priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "This is a handmade clock, made by the best clock makers of Swiss clocks. It has a 8-day movement which is made of 19 jewels and the radars of the mechanism are made of gold leaf."
