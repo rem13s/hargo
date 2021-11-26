@@ -101,8 +101,8 @@ location = "Luxembourg, Luxembourg"
 # copyright
 copyright = "| Copyright &copy; 2021 [MyAntik](https://www.myantik.com) All Rights Reserved |"
 # Snipcart Credentials
-snipcartApiKey = "Y2ZiZmFlZjYtYjExNC00ZGUyLTg1OTUtZWJhYmExYTM2NWUzNjM3NjA0NzUyNDQzNDk1NTYz" #prod
-#snipcartApiKey = "M2U3NjcxNWQtYzFlYS00Y2UxLTgzMDgtN2ExN2QzOTM1NTdhNjM3NjAwNjYzMTQxMDgyODE4" # test Api key
+#snipcartApiKey = "Y2ZiZmFlZjYtYjExNC00ZGUyLTg1OTUtZWJhYmExYTM2NWUzNjM3NjA0NzUyNDQzNDk1NTYz" #prod
+snipcartApiKey = "M2U3NjcxNWQtYzFlYS00Y2UxLTgzMDgtN2ExN2QzOTM1NTdhNjM3NjAwNjYzMTQxMDgyODE4" # test Api key
 #snipcartApiKey = "NzY3ODJiYjQtMzljYS00NDljLWJlZWUtYTY1ZTgzMThiMzc5NjM3NjAwNjYzMTQxMDgyODE4"
 currencySymbol = "€"
 
