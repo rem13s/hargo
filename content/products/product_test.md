@@ -20,7 +20,7 @@ The postcard measures approximately 15 x 10,5 cms.
 Condition: very well preserved."
 
 #product ID
-productID: "6"
+productID: "10"
 
 # type must be "products"
 type: "products"
