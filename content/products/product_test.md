@@ -1,5 +1,5 @@
 ---
-title: "Propaganda Postcard 1940 Germany Helmet, Iron Cross and Weapon"
+title: "Test Product"
 date: 2021-06-30T11:22:16+06:00
 draft: false
 
@@ -7,11 +7,17 @@ draft: false
 description : "For Glowing Skin"
 
 # product Price
-price: "39"
+price: "0.1"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Army helmet with Medal Iron Cross 2nd Class and edged weapon"
+shortDescription: "Army helmet with Medal Iron Cross 2nd Class and edged weapon
+
+Cancellation : Berlin, 01.08.1940
+
+The postcard measures approximately 15 x 10,5 cms.
+
+Condition: very well preserved."
 
 #product ID
 productID: "6"
@@ -31,12 +37,6 @@ Colorful postcard designed by the artist Gottfried Klein published by Heinrich H
 The inscription reads: “Only one of us can be the victor and that is we.” It is a quote from Hitler’s speech of 8 November 1939. 
 
 On the reverse there are 2 Michel stamps : 748 and 749 - Re-annexation of the territories of Eupen, Malmedy and Moresnet.
-
-Cancellation : Berlin, 01.08.1940
-
-The postcard measures approximately 15 x 10,5 cms.
-
-Condition: very well preserved.
 
 These postcards from the Third Reich era can be used for the following purposes only: civic education, the prevention of unconstitutional and anti-constitutional activities, the assistance of academic and art historical research, the reporting and clarification of events from the Third Reich era, and the research of uniforms and military history. The purchaser is obligated to only use cards for the historic and academic purposes listed above. They are in no way to be used in other purposes !
 
