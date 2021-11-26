@@ -1,5 +1,5 @@
 ---
-title: "Propaganda Postcard 1941 Germany Viktoria / Victory"
+title: "Propaganda Postcard 1940 Germany Medal Iron Cross 2nd Class"
 date: 2021-06-30T11:22:16+06:00
 draft: false
 
@@ -23,7 +23,7 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/postcard4/pc4f.jpg"
-  - image: "images/products/postcard4/pc4s.jpg"
+  - image: "images/products/postcard4/pc4b.jpg"
   - image: "images/products/postcard4/pc4cat1.jpg"
 ---
 
