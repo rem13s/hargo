@@ -9,6 +9,7 @@ description : "Medal Iron Cross 2nd Class"
 # product Price
 price: "29"
 priceBefore: ""
+available : true
 
 # Product Short Description
 shortDescription: "WW2 GERMAN Medal Iron Cross 2nd Class Postcard"

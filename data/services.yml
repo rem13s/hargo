@@ -1,0 +1,25 @@
+######################## raw material #######################
+material:
+  enable : true
+  title : "Our Services"
+  subtitle : "Buying, Selling, Expertise of Art & Antiques, Professional Packing and Worldwide Shipping"
+  materialItem:
+    # material item loop
+    - title : "Expertise / Estimation"
+      image : "images/material/material-1.png"
+      content : "Providing expertise in Numismatic, Gold, Silverware, Jewelry, Art Objects, Special Collections, Engravings, Medals and Decorations, Antique furniture."
+      
+    # material item loop
+    - title : "Buying/Selling"
+      image : "images/material/material-2.png"
+      content : "We are buying and selling coins, postcards, gold, silverware, jewelry, art objects, medals and decorations, antique furniture."
+      
+    # material item loop
+    - title : "Professional Packing"
+      image : "images/material/material-3.png"
+      content : "We use the best materials to avoid possible shipping breakage. All of your items are wrapped in cardboard and/or in bubble wrap by our experienced crew."
+      
+    # material item loop
+    - title : "Worldwide Shipping"
+      image : "images/material/material-4.png"
+      content : "The best shipping rates - we specialize in the packing and shipping of antiques and fine art to worldwide destinations by both sea and air."

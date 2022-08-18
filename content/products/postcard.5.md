@@ -9,6 +9,7 @@ description : "For Glowing Skin"
 # product Price
 price: "39"
 priceBefore: ""
+available : true
 
 # Product Short Description
 shortDescription: "Army helmet with Medal Iron Cross 2nd Class and edged weapon"

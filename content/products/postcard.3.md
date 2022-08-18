@@ -9,6 +9,7 @@ description : "Propaganda Postcard 1941 Germany Viktoria"
 # product Price
 price: "39"
 priceBefore: ""
+available : true
 
 # Product Short Description
 shortDescription: "

@@ -7,8 +7,10 @@ draft: false
 description : " 800th Anniversary of the Vienna Mint"
 
 # product Price
-price: "999"
+price: "1079"
 # priceBefore: "25.00"
+available : true
+
 
 # Product Short Description
 shortDescription: "1000 Schilling Austria 1994 800 years of coin-Vienna, approx. 13 grams of GOLD fine and 24 g of fine SILVER. Original box + certificate, PP"

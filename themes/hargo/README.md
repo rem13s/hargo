@@ -56,10 +56,30 @@ If your problem or idea is not addressed yet, [open a new issue](https://github.
 
 If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
 
-## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+## Start Hugo website in localhost
 
-## Premium Themes
+C:\Users\User\Desktop\Projects\hugo.go\hargo> hugo.exe server -D
+Start building sites … 
+
+                   | EN  
+-------------------+-----
+  Pages            | 28  
+  Paginator pages  |  0  
+  Non-page files   |  0
+  Static files     | 75
+  Processed images |  0
+  Aliases          |  3
+  Sitemaps         |  1
+  Cleaned          |  0
+
+Built in 79 ms
+Watching for changes in C:\Users\User\Desktop\Projects\hugo.go\hargo\{archetypes,content,data,static,themes}
+Watching for config changes in C:\Users\User\Desktop\Projects\hugo.go\hargo\config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
 
 | [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Adrian](https://gethugothemes.com/wp-content/uploads/edd/2019/12/adrian-ecommerce-template.jpg)](https://gethugothemes.com/products/adrian/) | [![influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) |
 |:---:|:---:|:---:|

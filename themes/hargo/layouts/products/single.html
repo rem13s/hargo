@@ -22,18 +22,25 @@
         <div class="rw-ui-container"></div>
         {{ end }}
         <div class="my-4">
-          {{ if .Params.PriceBefore }}
-          <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
+          {{ if .Params.available }}
+            {{ if .Params.PriceBefore }}
+            <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
+            {{ end }}
+          {{ else }}
+            <span class="lead text-primary font-weight-medium"><b>Sold</b> - {{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
           {{ end }}
-          <span class="lead text-primary font-weight-medium">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
         </div>
         <h5>Short Description</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
-        <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
+
+        {{ if .Params.available }}
+          <button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
           Add to cart
-        </button>
+          </button>
+        {{ end }}
+        
       </div>
       <div class="col-12 mt-5">
         <ul class="nav nav-tabs border-bottom-0" id="myTab" role="tablist">

@@ -9,6 +9,7 @@ description : "Propaganda Postcard Flak Artillery"
 # product Price
 price: "89"
 priceBefore: ""
+available : true
 
 # Product Short Description
 shortDescription: "From artist Gottfried Klein's

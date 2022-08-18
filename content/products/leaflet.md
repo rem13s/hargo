@@ -7,8 +7,10 @@ draft: false
 description : "RARE ORIGINAL WWII Memorial leaflet Germany"
 
 # product Price
-price: "499.00"
+price: "649.00"
 priceBefore: ""
+available : true
+
 
 # Product Short Description
 shortDescription: "RARE ORIGINAL WWII folder cover from Germany commemorating the German Afrika Korps, DAK, for wehrmacht day with stamps and cancels from Libya, Germany, Italy, Tunisia and France and assorted cancellations from the war theater of North Africa.

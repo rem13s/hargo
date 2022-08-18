@@ -9,6 +9,8 @@ description : "Anniversary Silver Medal"
 # product Price
 price: "199"
 priceBefore: "249"
+available : false
+
 
 # Product Short Description
 shortDescription: "RARE Queen Elizabeth II and Prince Philip Anniversary Silver Medal 1947 - 1972

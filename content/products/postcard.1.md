@@ -1,7 +1,7 @@
 ---
 title: "Propanganda Postcard Germany 1938"
 date: 2021-06-28T11:22:16+06:00
-draft: false
+draft: true
 
 # meta description
 description : "Propaganda Postcard"
@@ -9,6 +9,7 @@ description : "Propaganda Postcard"
 # product Price
 price: "199"
 priceBefore: "249"
+available : false
 
 # Product Short Description
 shortDescription: "RARE Original Propaganda Postcard 1938 Germany Third Reich"

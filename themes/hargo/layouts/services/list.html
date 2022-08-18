@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "page-title-services.html" . }}
+
+<!-- material -->
+{{ if site.Data.services.material.enable }}
+{{ with site.Data.services.material }}
+
+<section class="section pb-0">
+  <div class="container">
+    <div class="row">
+      {{ range .materialItem }}
+
+        <div class="media border-0 text-left">
+          <img src="{{ .image | absURL }}" alt="material" class="mr-3 border-0">
+          <div class="media-body">
+            <h3>{{ .title | markdownify }}</h4>
+            <p>{{ .content | markdownify }}</p>
+          </div>
+        </div>
+
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /material -->
+
+{{ if site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+
+{{ end }}
+
